@@ -1,0 +1,1 @@
+{"chi":1,"sigma":1,"Intensity":1.308,"Reflectivity":0.9,"ngp":64,"domainwidth":8,"dt":0.05,"InitialCarrierDensity":"continue.dat","initialNoise":0.1,"additiveNoise":0,"IntegrationTime":10,"WriteTime":10,"FinalImage":"images/lastimage.png"}

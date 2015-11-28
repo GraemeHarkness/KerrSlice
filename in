@@ -1,0 +1,14 @@
+{
+	"chi" : 1,
+	"sigma" : 1,
+	"Intensity" : 1.35,
+	"Reflectivity" : 0.9,
+	"ngp" : 64,
+	"domainwidth" : 8,
+	"dt" : 0.05,
+	"initialNoise" : 0.1,
+	"additiveNoise" : 0,
+	"IntegrationTime" : 10,
+	"WriteTime" : 10,
+	"FinalImage" : "lastimage.png"
+}
