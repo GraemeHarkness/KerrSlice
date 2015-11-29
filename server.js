@@ -82,11 +82,7 @@ function init () {
     handlers.root = function( request, reply) {
             reply.file('./index.html');
     }
-    
-    handlers.imageIFrame = function( request, reply) {
-            reply.file('./image.html');
-    }
-    
+        
     handlers.images = { directory: { path: './images', listing: false, index: true } };
 
     var routes =
